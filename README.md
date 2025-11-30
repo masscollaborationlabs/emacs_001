@@ -2,6 +2,8 @@
 
 Emacs 001 dersleri
 
+https://www.youtube.com/playlist?list=PLXskldhH5VMoafzJylQMotpOy1LRUiJZ5
+
 # License
 
 MIT License
